@@ -1,4 +1,4 @@
-# Interval App - for all you timing needs
+# Interval App - for all your timing needs
 
 ## Bakgrund
 Förmågan att mäta tid är väldigt användbart. Från träning till studier är en bra timer guld värd.
