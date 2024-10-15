@@ -29,7 +29,7 @@ Viss remix av utseende får göras, ex. lägga till färger, ändra fonter etc, 
 
 På samtliga timervyer skall ha en *meny-ikon* i hörnet visa en meny där användaren ska kunna växla mellan olika timer-vyer. Notera att dessa byten inte skall avbryta eller nollställa timern.
 
-![screens](https://user-images.githubusercontent.com/54267140/158348057-10adf534-1a81-4d23-8892-72f284d6835a.png)
+![screens](mockup.png)
 En interaktiv mockup hittar ni [här](https://www.figma.com/proto/AerBB2Yx3IiT9iL8U8akVR/Interval-app-1.0?node-id=23%3A176&scaling=scale-down&page-id=23%3A3).
 
 Figma-filen hittar du [här](https://www.figma.com/file/AerBB2Yx3IiT9iL8U8akVR/Interval-app-1.0).
