@@ -1,5 +1,9 @@
 # Interval App - for all your timing needs
 
+## Uppgiftspresentation
+https://folkuniversitetet-se.zoom.us/rec/share/w8FBDlINKNcrC3kKcWSdkPJ98AjQDs5XvWaYSuvVRjZcQT1gg-uCinCQosfQMTfG.I3rsQfbYFdyWw0LO?startTime=1728994980000
+Lösenkod: E406gsG?
+
 ## Bakgrund
 Förmågan att mäta tid är väldigt användbart. Från träning till studier är en bra timer guld värd.
 
